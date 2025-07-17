@@ -54,3 +54,8 @@ WP410 est un plugin conçu pour vous donner un contrôle total sur la gestion de
 * Ajout de la gestion manuelle et automatique des statuts HTTP 410.
 * Intégration d'options d'exclusion pour le sitemap XML et le flux RSS.
 * Introduction de l'importation par CSV pour le marquage multiple.
+
+
+<a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
